@@ -1,2 +1,2 @@
 # AwareIM Reference Attributes to JSON Conversion
-Convert and store reference attributes (HTML Table) to JSON (Array), using javascript and JQuery.
+Convert and store reference attributes (HTML Table data) to JSON (Array data), using javascript and JQuery.
