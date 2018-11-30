@@ -3,7 +3,7 @@
  - Store the JSON array in a _**plain text attribute.**_ <br>
  - The table data is converted to JSON _**automatically**_ and on button _**click**_.
 
-### [**Demo**](https://jsfiddle.net/RennurApps/ua5dzckp/)
+### [**JSFiddle: Demo & Code**](https://jsfiddle.net/RennurApps/ua5dzckp/)
 Implemented in Aware IM using advanced script feature. 
 
 ![HTML to JSON](https://github.com/RennurApps/AwareIM-Reference-Attributes-to-JSON/blob/master/htmltojson.png)
