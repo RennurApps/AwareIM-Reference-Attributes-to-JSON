@@ -8,5 +8,5 @@ Implemented in Aware IM using advanced script feature.
 
 ![HTML to JSON](https://github.com/RennurApps/AwareIM-Reference-Attributes-to-JSON/blob/master/htmltojson.png)
 
-#### Aware IM Form
+### Aware IM BO Form
 ![HTML to JSON](https://github.com/RennurApps/AwareIM-Reference-Attributes-to-JSON/blob/master/json.png)
